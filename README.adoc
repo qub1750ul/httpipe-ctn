@@ -1,0 +1,28 @@
+= httpipe-ctn
+A building block for container based pipelines
+:toc:
+
+httpipe-ctn is a project that compiles to an OCI base image, providing a mean of
+forward data exchange beetween containers in a pipeline.
+
+It strives to be very simple and targets very simple pipelines. +
+Better tools already exist to manage more complex ( average ) pipelines,
+and should be used.
+
+== License
+
+This file is part of httpipe-ctn.
+
+httpipe-ctn is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+httpipe-ctn is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with httpipe-ctn.  If not, see <http://www.gnu.org/licenses/>.
+
